@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aplicación sencilla</string>
+    <string name="aprender">Aprende Conmigo</string>
+    <string name="jugar">Juguemos</string>
+    <string name="salir">Salir</string>
+
+    <string name="animales">Los Animales</string>
+    <string name="calle">En La Calle</string>
+    <string name="numeros">Los Números</string>
+
+    <string name="siguiente">Siguiente</string>
+    <string name="correcta">¡Correcto!</string>
+
+</resources>
